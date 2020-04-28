@@ -9,4 +9,4 @@
 ![](images/student5.PNG)
 # login as student
 
-![](images/loginasstudent.PNG)
+![](images/login%20as%20student.PNG)
